@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Tanha;
+  src: url("./Assets/font/Tanha.eot");
+  src: url("./Assets/font/Tanha.eot?#iefix") format("embedded-opentype"),
+    url("./Assets/font/Tanha.woff2") format("woff2"),
+    url("./Assets/font/Tanha.woff") format("woff"),
+    url("./Assets/font/Tanha.ttf") format("truetype");
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Tanha;
+  background-image: linear-gradient(to top, #1e293b, #0f172a);
+  background-attachment: fixed;
+}
+
+.FcSearchIcon {
+  font-size: 1.7rem;
+}
+
+@media screen and (max-width: 900px) {
+  .FcSearchIcon {
+    font-size: 1.8rem;
+  }
+}
