@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/question-and-awnser-app/static/css/main.bcbd7da1.css",
-    "main.js": "/question-and-awnser-app/static/js/main.a037875d.js",
+    "main.css": "/question-and-awnser-app/static/css/main.446ccf7e.css",
+    "main.js": "/question-and-awnser-app/static/js/main.03211a86.js",
     "static/media/Tanha.eot": "/question-and-awnser-app/static/media/Tanha.34e9f1bfc12b8f52c69d.eot",
     "static/media/Tanha.ttf": "/question-and-awnser-app/static/media/Tanha.ae2fce92786e29029e6c.ttf",
     "static/media/spinner.gif": "/question-and-awnser-app/static/media/spinner.6f3dddfb1778ba132480.gif",
@@ -13,11 +13,11 @@
     "static/media/7.png": "/question-and-awnser-app/static/media/7.fb2d4bcc519e40353795.png",
     "static/media/3.png": "/question-and-awnser-app/static/media/3.99919c9eb9b2db40bd1e.png",
     "index.html": "/question-and-awnser-app/index.html",
-    "main.bcbd7da1.css.map": "/question-and-awnser-app/static/css/main.bcbd7da1.css.map",
-    "main.a037875d.js.map": "/question-and-awnser-app/static/js/main.a037875d.js.map"
+    "main.446ccf7e.css.map": "/question-and-awnser-app/static/css/main.446ccf7e.css.map",
+    "main.03211a86.js.map": "/question-and-awnser-app/static/js/main.03211a86.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcbd7da1.css",
-    "static/js/main.a037875d.js"
+    "static/css/main.446ccf7e.css",
+    "static/js/main.03211a86.js"
   ]
 }
